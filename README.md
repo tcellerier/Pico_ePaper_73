@@ -1,7 +1,7 @@
 # Waveshare PhotoPainter Pico_ePaper_73
 
 ## Description
-This project presents an enhanced version of Waveshare's original firmware for the PhotoPainter e-paper frame (Raspberry Pi Pico). More information about the original product can be found here: [Waveshare PhotoPainter](https://www.waveshare.com/wiki/PhotoPainter).
+This project presents an enhanced version of Waveshare's original firmware for the PhotoPainter e-paper frame (Raspberry Pi Pico). More information about the original product can be found here: [Waveshare PhotoPainter](https://www.waveshare.com/wiki/PhotoPainter) and [Pico_ePaper_code](https://github.com/waveshareteam/Pico_ePaper_Code).
 
 ## Modification
 * New mode 3, featuring:
