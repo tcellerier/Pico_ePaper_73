@@ -7,7 +7,11 @@ This project presents an enhanced version of Waveshare's original firmware for t
 * New mode 3, featuring:
   * Maximum files increased to 2000 (from 100)
   * Complete randomization of photo sequence
-  * More refresh rate options 
+  * More refresh rate precompiled options
+* Modified files:
+  * main.c
+  * examples/run_File.c
+  * examples/run_File.h
 
 ## How to use
 * Choose the desired .uf2 file from the ./extra_uf2/ directory, based on your preferred mode and picture refresh rate.
